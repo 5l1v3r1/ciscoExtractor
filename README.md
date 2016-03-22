@@ -1,7 +1,7 @@
 # ciscoExtractor
 Extract and filter CISCO ASA/FWSM ACLs based on many rules
 
-C:\Users\o-mostafa.zakria>extractor.py -h
+C:\Users\xxxxx>extractor.py -h
 
 
 usage: PROG [-h] (-cmd | -fwname FWNAME | -printfw) [-srcnet SRCNET]
