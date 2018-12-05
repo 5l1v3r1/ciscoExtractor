@@ -2,7 +2,7 @@
 Extract and filter CISCO ASA/FWSM ACLs based on many rules
 
 
-
+```
 C:\Users\o-mostafa.zakria>extractor.py -h
 usage: PROG [-h] (-cmd | -fwname FWNAME | -printfw) [-srcnet SRCNET]
             [-dstnet DSTNET] [-protocol PROTOCOL] [-port PORT]
@@ -37,4 +37,4 @@ optional arguments:
   -oT OT              write output to file
   
   -oX OX              write CSV file
-  
+ ``` 
